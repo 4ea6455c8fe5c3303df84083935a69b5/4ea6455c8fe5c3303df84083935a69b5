@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning C++ and C#
+- 📫 How to reach me: lovesgdimalware@gmail.com or maltest_marc15772
 
 <!--
 **4ea6455c8fe5c3303df84083935a69b5/4ea6455c8fe5c3303df84083935a69b5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
